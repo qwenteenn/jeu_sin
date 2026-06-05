@@ -1,0 +1,15 @@
+gold 661
+ancientFragments 0
+class 0
+maxFloor 2
+equipped weapon_short_sword
+item return_stone 2
+item scarab_shell 6
+item weapon_short_sword 1
+item broken_relic 3
+item rusted_weapon_fragment 1
+item ancient_bone 3
+item weak_venom 4
+item spectral_essence 1
+item cursed_bandage 2
+item ancient_dust 1
