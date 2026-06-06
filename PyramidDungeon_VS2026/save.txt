@@ -1,0 +1,11 @@
+gold 1712
+ancientFragments 0
+class 0
+maxFloor 2
+equipped weapon_short_sword
+item return_stone 3
+item weapon_short_sword 1
+item ancient_key 1
+item cursed_bandage 3
+item broken_relic 1
+item scarab_shell 1
